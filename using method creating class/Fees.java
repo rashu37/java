@@ -10,5 +10,4 @@ public static void college(){
 int fees=100000;
 System.out.println("the college fees is:" + fees);
 }
-
-public
+}
