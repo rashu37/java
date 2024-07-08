@@ -15,9 +15,12 @@ public class Amazon{
     String color[]={"blue", "red", "black", "purple"};
        for(int index=0; index< color.length; index++){
             System.out.println("The dress color is:" + " " + color[index]);
-	   }
-         return "orange is not available";
-	}
+	   
+	   }         
+	   return "orange is not available";
+	
+	 }
+	
 
      public static double price(int rate){
 		 if(rate<10000){

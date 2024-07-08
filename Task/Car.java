@@ -18,6 +18,11 @@ public class Car{
    }
    }
    
-   
+   public static double size(String location[]){
+	   for(int index=0; index<location.length; index++){
+		   System.out.println("Avaliable in:" + " " +location[index]+ ","+ "price is in cr:");
+	   }
+	   return 6.25;
+   }
    }
    

@@ -24,7 +24,7 @@ public class Policestation{
 	
 	public static void taken(String take[]){
 		for(int index=0; index<take.length; index++){
-			System.out.println("the complients are taken like" + " " + take[index]);
+			System.out.println("the complients are taken like:" + " " + take[index]);
 		}
 	}
 }
